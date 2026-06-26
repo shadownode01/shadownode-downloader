@@ -25,5 +25,6 @@ Download single videos or entire batches, pick your desired format, and save con
 
 ### Clone the Repository
 ```bash
-git clone [https://github.com/shadownode01/shadownode-downloader.git](https://github.com/shadownode01/shadownode-downloader.git)
+git clone https://github.com/shadownode01/shadownode-downloader.git
+https://github.com/shadownode01/shadownode-downloader.git
 cd shadownode-downloader
